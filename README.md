@@ -90,7 +90,7 @@
 Thanks for stopping by! 🚀  
 “Keep learning, keep coding.”
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:musfiktamim@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
   </a>
 </p>
@@ -120,35 +120,6 @@ Here are some of the tools, languages, and technologies I have been working with
 - Working on project(s):  
   - *Project A* — short description  
   - *Project B* — short description  
-
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musfiktamim&show_icons=true&theme=radical" alt="Musfik’s GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiktamim&layout=compact&theme=radical" alt="Top languages used" />
-</p>
-
----
-
-### ⚡ Fun Fact
-
-> I believe every problem has a solution, and I enjoy the challenge of finding it — especially when coding.
-
----
-
-### 📫 Get in Touch
-
-| Platform     | Link                                 |
-|--------------|----------------------------------------|
-| Fiverr       | [musfiktamim](https://www.fiverr.com/musfiktamim) |
-| Instagram    | [tamimmusfik](https://www.instagram.com/tamimmusfik) |
-| X / Twitter  | [@MusfikTamim](https://x.com/MusfikTamim) |
-| Email        | your-email@example.com                |
-
----
-
 Thanks for stopping by! 🚀  
 “Keep learning, keep coding.”
