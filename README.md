@@ -90,7 +90,7 @@
 Thanks for stopping by! 🚀  
 “Keep learning, keep coding.”
   </a>
-  <a href="mailto:musfiktamim@gmail.com">
+  <a href="mailto:musfiktamim@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
   </a>
 </p>
