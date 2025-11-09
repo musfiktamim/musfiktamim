@@ -83,7 +83,7 @@
 | Fiverr      | [musfiktamim](https://www.fiverr.com/musfiktamim)       |
 | Instagram   | [tamimmusfik](https://www.instagram.com/tamimmusfik)    |
 | X / Twitter | [@MusfikTamim](https://x.com/MusfikTamim)               |
-| Email       | [musfiktamim@gmail.com.com](mailto:musfiktamim@gmail.com) |
+| Email       | [musfiktamim@gmail.com](mailto:musfiktamim@gmail.com) |
 
 ---
 
