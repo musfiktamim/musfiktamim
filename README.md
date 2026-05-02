@@ -36,7 +36,7 @@
   <a href="https://www.fiverr.com/musfiktamim" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-00C755?logo=fiverr&logoColor=white&style=for-the-badge" alt="Fiverr">
   </a>
-  <a href="https://www.instagram.com/tamimmusfik" target="_blank">
+  <a href="https://www.instagram.com/hidencdr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
   </a>
   <a href="https://x.com/MusfikTamim" target="_blank">
