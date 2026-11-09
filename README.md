@@ -81,7 +81,7 @@
 | Platform    | Link                                                    |
 | ----------- | ------------------------------------------------------- |
 | Fiverr      | [musfiktamim](https://www.fiverr.com/musfiktamim)       |
-| Instagram   | [tamimmusfik](https://www.instagram.com/tamimmusfik)    |
+| Instagram   | [tamimmusfik](https://www.instagram.com/m_r_tevor)    |
 | X / Twitter | [@MusfikTamim](https://x.com/MusfikTamim)               |
 | Email       | [musfiktamim@gmail.com](mailto:musfiktamim@gmail.com) |
 
